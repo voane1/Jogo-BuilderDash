@@ -1,0 +1,9 @@
+4 13
+WWWWWWWWWWWWW
+OOOOOOOWOOOOW
+WWWLLOOOWWWWW
+WWWWWWOWWWWWW
+J 1 2 % posição do jogador
+D 1 5 1 6 2 6 % dois diamantes nas posições (1,5) e (1,6) (2,6)
+B 0 9 % posição da anvil
+P 3 7 % um bónus de pontuação
